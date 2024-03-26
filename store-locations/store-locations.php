@@ -141,7 +141,7 @@ class wpb_store_locations_widget extends WP_Widget
 
     </script>
 
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBCXpP9AbR4xJJ_O2YzcrczTfj27M-ZK7M&callback=startMap" async defer></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=replaceWithYourAPIKEYFromYourGoogleAccount=startMap" async defer></script>
         
         <?php
     }/*Closure from widget front-end PHP function*/
